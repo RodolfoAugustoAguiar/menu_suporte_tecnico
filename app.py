@@ -1,4 +1,4 @@
-# Menu do Laboratório
+# Menu do Laboratório e do suporte técnico
 # Autor: Rodolfo Augusto Aguiar
 
 import os
